@@ -56,7 +56,7 @@ class App extends React.Component {
 const Header = () => {
     return (
         <div>
-            <h1>Voit antaa palautetta alla olevilla painikkeilla</h1>
+            <h1>anna palautetta</h1>
         </div>
     )
 }
@@ -70,7 +70,7 @@ const Button = (props) =>
 
 const StatisticHeader = () => {
     return (
-        <h2>Annetut palautteet:</h2>
+        <h2>statistiikka</h2>
     )
 }
 
